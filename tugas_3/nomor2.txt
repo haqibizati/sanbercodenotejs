@@ -1,0 +1,4 @@
+var = var merupakan deklarasi variable dalam javascript, sebelum adanya ES6 var merupakan deklarasi umum yang sering digunakan
+      untuk saat ini sebaiknya tidak menggunakan var dalam pengembangan perangkat lunak
+let = let merupakan deklarasi variabel yang dapat digunakan untuk alternativ var, di banding dengan const, let dapat mengupdate variable nya
+const = merupakan deklarasi variabel yang konstan, maksudnya di sini variabel ini tidak dapat di redeklarisasi
