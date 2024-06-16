@@ -1,0 +1,16 @@
+{
+  "name": "tugas5",
+  "version": "1.0.0",
+  "main": "morgan2.js",
+  "scripts": {
+    "server": "node morgan2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
